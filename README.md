@@ -1,4 +1,4 @@
-# BEP20 Token Generator
+# Kronobit BEP20 Token Generator Service
 
 [![CI](https://github.com/tokencenter/bep20-generator/workflows/CI/badge.svg?branch=master)](https://github.com/tokencenter/bep20-generator/actions/)
 [![Coverage Status](https://coveralls.io/repos/github/tokencenter/bep20-generator/badge.svg?branch=master)](https://coveralls.io/github/tokencenter/bep20-generator?branch=master)
